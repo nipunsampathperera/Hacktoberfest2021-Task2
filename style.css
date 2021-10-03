@@ -1,8 +1,42 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 25px;
+}
+img{
+   margin-left: 50rem;
+   height: 25%;
+   width: 15%;
+   border-radius: 20px;
+   border: solid black;
+}
+body{
+ background-color: rgb(224, 226, 226);
+}
+.s{
+    color: red;
+}
+.r{
+    color: rgb(30, 199, 106);
+}
+.i{
+    color: blue;
+}
+.l{
+    color: brown;
+}
+.a{
+    color: chartreuse;
+}
+.n{
+    color: crimson;
+}
+.k{
+    color: darkgreen;
+}
+.a{
+    color: darkorange;
 }
